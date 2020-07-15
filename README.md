@@ -1,1 +1,1 @@
-(img/meta-image.jpg)
+![image](img/meta-image.jpg)
